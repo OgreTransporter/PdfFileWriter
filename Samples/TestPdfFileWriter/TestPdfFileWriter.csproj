@@ -2,7 +2,7 @@
 
 	<PropertyGroup>
 		<OutputType>WinExe</OutputType>
-		<TargetFramework>net6.0-windows</TargetFramework>
+		<TargetFramework>net8.0-windows</TargetFramework>
 		<Nullable>disable</Nullable>
 		<UseWindowsForms>true</UseWindowsForms>
 		<ImplicitUsings>enable</ImplicitUsings>
@@ -12,7 +12,7 @@
 		<Copyright>Copyright (C) 2013-2022 Uzi Granot. All Rights Reserved</Copyright>
 		<GenerateDocumentationFile>True</GenerateDocumentationFile>
 		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-		<PackageId>TestPdfFileWriterNet6</PackageId>
+		<PackageId>TestPdfFileWriterNet8</PackageId>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
 		<PackageLicenseExpression>CPOL-1.02</PackageLicenseExpression>
 	</PropertyGroup>
